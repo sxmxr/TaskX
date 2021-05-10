@@ -19,12 +19,12 @@ to the users of the system.
 ## List of Folders:
 1. Diagrams
 2. Document 
-  1. Project Description
-  2. Software Requirement Specification
-  3. Design Document
-  4. Testing Doc
-  5. Defination_of_Done
-  6. User Feedback
+    1. Project Description
+    2. Software Requirement Specification
+    3. Design Document
+    4. Testing Doc
+    5. Defination_of_Done
+    6. User Feedback
 3. Project Meeting Details
 
 ## Contributers:
