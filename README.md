@@ -1,7 +1,7 @@
 # TaskX - The Task Management System
 # "Get organized. Work smarter. Stay Motivated"
 
-##Project Overview
+## Project Overview :rocket:
 TaskX is a web-application which can help the users to create and maintain schedules
 for their daily tasks in a smart and effective manner. The main functionality of the system
 is creating daily schedules. The system helps the user in creating schedules for certain
@@ -15,3 +15,24 @@ prevent the user from avoiding the work to be done on the tasks that are planned
 scheduled. Satisfaction, improvement in the way of managing the tasks, relief from the
 stress of pending tasks are some of the advantages that the project team wishes to provide
 to the users of the system.
+
+## List of Folders:
+1. Diagrams
+2. Document 
+  1. Project Description
+  2. Software Requirement Specification
+  3. Design Document
+  4. Testing Doc
+  5. Defination_of_Done
+  6. User Feedback
+3. Project Meeting Details
+
+## Contributers:
+* Samarth Shah
+* Priyank Sangani
+* Yugamsinh Chavda
+* Dhruv Shah
+* Harsh Mange
+* Parth Patel
+* Kishan Patel
+* Preyanshu Sukhadiya 
