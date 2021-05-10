@@ -18,7 +18,7 @@ to the users of the system.
 
 ## List of Folders:
 1. Diagrams
-2. Document 
+2. Documents 
     1. Project Description
     2. Software Requirement Specification
     3. Design Document
